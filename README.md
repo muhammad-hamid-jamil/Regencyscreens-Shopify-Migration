@@ -12,7 +12,7 @@ The biggest challenge was preserving the existing design while moving to a more 
 
 
 ## My Role
-Full Stack Developer
+Full Stack Developer 
 
 ## Responsibilities
 - Evaluated legacy CMS limitations and content structure
